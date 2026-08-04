@@ -1,0 +1,26 @@
+[
+    {
+        "ID":101,
+        "Name":"Aishu",
+        "Age":22,
+        "Marks":95
+    },
+    {
+        "ID":102,
+        "Name":"Rahul",
+        "Age":23,
+        "Marks":88
+    },
+    {
+        "ID":103,
+        "Name":"Priya",
+        "Age":21,
+        "Marks":91
+    },
+    {
+        "ID":104,
+        "Name":"John",
+        "Age":24,
+        "Marks":84
+    }
+]
